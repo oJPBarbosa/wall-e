@@ -17,7 +17,7 @@
 </p>
 
 ## 🎯 Description
-A Discord bot appointed to COTUCA's PADEMT servers.
+A (deprecated) Python Discord bot appointed to COTUCA's PADEMT servers.
 
 ## 🙋 How to use
 ```bash
